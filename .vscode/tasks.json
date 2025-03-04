@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "watch Tic-Tac-Toe",
+			"file": "C:\\Users\\user\\source\\repos\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj",
+			"problemMatcher": [],
+			"label": "dotnet: watch Tic-Tac-Toe"
+		}
+	]
+}
