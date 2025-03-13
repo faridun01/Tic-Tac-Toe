@@ -1,7 +1,7 @@
 # Tic-Tac-Toe - Windows Forms Application (C# .NET)  
 
 ## Overview  
-The **Tic-Tac-Toe** application is a **Windows Forms (WinForms) desktop game** developed in **C# .NET**. This project provides a clean, modern implementation of the classic two-player **Tic-Tac-Toe** game with an intuitive user interface, responsive design, and real-time win detection.  
+The **Tic-Tac-Toe** application is a **Windows Forms (WinForms) desktop game** developed in **C# .NET**. This project provides an implementation of the classic two-player **Tic-Tac-Toe** game with an intuitive user interface, responsive design, and real-time win detection.  
 
 ---
 
